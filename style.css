@@ -1,0 +1,39 @@
+#block-body {
+    width: 1035px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#block-header {
+    width: 1035px;
+    height: 270px;
+}
+
+#block-content {
+	color: white;
+    width: 800px;
+    height: 400px;
+    position: relative;
+    float: right;
+}
+
+#block-left {
+    width: auto;
+    height: 400px;
+}
+
+#h1 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+   } 
+   
+#logotip {
+    width: 270px;
+    height: 270px;
+    position: absolute;
+}
+
+#Win {
+	width: 800px;
+    height: 500px;
+    position: absolute;
+}
